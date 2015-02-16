@@ -133,3 +133,8 @@ http://www.omeka.net/
 "Everyone knows that if Scarlett OíHara had an unlimited text-and-data plan, sheíd constantly try to tempt Ashley away from Melanie with suggestive messages. If Mr. Rochester could text Jane Eyre, his ardent missives would obviously be in all-caps. And Daisy Buchanan would not only text while driving, sheíd text you to pick her up after she totaled her car."
 http://textsfromjaneeyre.com/
 
+## DH Blogs
+
+- [Bethany Nowviskie](http://nowviskie.org/)
+- [ProfHacker](http://chronicle.com/blogs/profhacker/)
+
