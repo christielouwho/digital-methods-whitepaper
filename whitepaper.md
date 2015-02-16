@@ -137,4 +137,7 @@ http://textsfromjaneeyre.com/
 
 - [Bethany Nowviskie](http://nowviskie.org/)
 - [ProfHacker](http://chronicle.com/blogs/profhacker/)
+- [Miriam Posner](http://miriamposner.com/blog/)
+- [Visualising Data](http://www.visualisingdata.com/index.php/blog/)
+- [Chris Alen Sula](http://chrisalensula.org/)
 
