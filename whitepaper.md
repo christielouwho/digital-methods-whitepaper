@@ -1,6 +1,7 @@
 
 # Digital Methods Whitepaper
 
+![Data Driven Digital Humanities Jargon](https://pbs.twimg.com/media/B98AFUyIQAEKo0S.png:large)
 
 ## Readings
 
