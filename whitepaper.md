@@ -140,4 +140,5 @@ http://textsfromjaneeyre.com/
 - [Miriam Posner](http://miriamposner.com/blog/)
 - [Visualising Data](http://www.visualisingdata.com/index.php/blog/)
 - [Chris Alen Sula](http://chrisalensula.org/)
+- [Ryan Cordell](http://ryancordell.org/)
 
