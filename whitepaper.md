@@ -3,6 +3,8 @@
 
 ![Data Driven Digital Humanities Jargon](https://pbs.twimg.com/media/B98AFUyIQAEKo0S.png:large)
 
+*The above image shows the keywords from a topic model of a DH (Digital Humanities) blog.* 
+
 ## Readings
 
 **Getting Started in the Digital Humanities**
